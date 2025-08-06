@@ -13,7 +13,7 @@ function scrollToTop() {
 }
 const teks = "Hi, Selamat Datang di Website Asheril!";
 let i = 0;
-const speed = 70;
+const speed = 100;
 
 function typeEffect() {
   if (i < teks.length) {
